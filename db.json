@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "name":"phan hieu" , "address":"sơn dương" },
+  "user": [
+    { "id": 1, "name":"phan hieu" , "address":"sơn dương" }
    
   ],
 
